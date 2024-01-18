@@ -53,9 +53,9 @@ Dans d'autres organisations, les expériences pourraient impliquer la simulation
 
 ### 4. WebAssembly
 
-La spécification formelle de WebAssembly offre une stabilité et une cohérence pour l'interopérabilité des moteurs, établissant ainsi une base fiable pour le développement d'outils et garantissant une interprétation uniforme du code sur divers navigateurs. En définissant clairement la syntaxe, le comportement, et les structures de contrôle, elle facilite la détection précoce d'incohérences, contribuant à l'établissement d'une norme robuste et évolutive. Cette formalisation renforce la confiance dans la fiabilité des implémentations, réduisant les risques d'interprétations divergentes et assurant une expérience utilisateur stable sur différentes plates-formes.
+La spécification formelle de WebAssembly offre une stabilité et une cohérence pour l'interopérabilité, elle établie une base fiable pour le développement d'outils et garantie une interprétation uniforme du code sur divers navigateurs. En définissant clairement la syntaxe, le comportement, et les structures de contrôle, elle facilite la détection précoce d'incohérences, contribuant à l'établissement d'une norme robuste et évolutive. Cette formalisation renforce la confiance dans la fiabilité des implémentations, réduisant les risques d'interprétations divergentes et assurant une expérience utilisateur stable sur différentes plates-formes.
 
-Néanmoins, cela ne signifie pas que les tests d'implémentation sont inutiles. Ces tests servent à valider le comportement réel des situations pratiques, identifier les bugs spécifiques à chaque moteur et assurer la robustesse face aux différences entre les implémentations.
+Néanmoins, cela ne signifie pas que les tests d'implémentation sont inutiles. Ces tests servent à valider le comportement réel des situations pratiques, identifier les bugs spécifiques et assurer la robustesse face aux différences entre les implémentations.
 
 
 ### 5. La Spécification Mécanisée
